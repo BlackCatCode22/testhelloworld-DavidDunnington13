@@ -15,8 +15,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcom" << endl;
-    cout << "for" << endl;
+    cout << "Welcome to Warmup Test" << endl;
+    cout << "\nfor September, 28, 2022" << endl;
 
     return 0;
 }
